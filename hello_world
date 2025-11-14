@@ -3,6 +3,6 @@ using namespace std;
 int main()
 { cout<< "omkar"<<endl;
   cout<<"hello world";
-  cout<<"The code will be added to branch 1";
+  cout<<"The code will be added to branche 1";
   return 0
 }
