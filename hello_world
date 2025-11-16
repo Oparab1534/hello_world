@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main()
-{ cout<< "omkar"<<endl;
+{ cout<< " OMKAR PARAB 15 "<<endl;
   cout<<"hello world";
   return 0
 }
